@@ -9,23 +9,30 @@
 
 ## 🚀 عني | About Me
 
-مطور برمجيات شغوف بالتكنولوجيا والابتكار. أحب بناء حلول برمجية تحل مشاكل حقيقية وتحدث فرقاً.
+مهندس ذكاء اصطناعي شغوف بالتعلم الآلي والذكاء الاصطناعي. أحب بناء نماذج ذكية وحلول مبتكرة باستخدام تقنيات الذكاء الاصطناعي.
 
-Passionate software developer enthusiastic about technology and innovation. I love building software solutions that solve real problems and make a difference.
+AI Engineer passionate about machine learning and artificial intelligence. I love building intelligent models and innovative solutions using AI technologies.
 
 ## 💻 المهارات التقنية | Technical Skills
 
 ```javascript
 const anwar = {
-  code: ["JavaScript", "Python", "Java", "C++"],
-  technologies: {
-    frontEnd: ["React", "Vue", "HTML", "CSS"],
-    backEnd: ["Node.js", "Express", "Django"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    tools: ["Git", "Docker", "VS Code"]
+  code: ["Python", "R", "SQL", "C++"],
+  aiFrameworks: {
+    deepLearning: ["TensorFlow", "PyTorch", "Keras"],
+    machineLearning: ["Scikit-learn", "XGBoost", "LightGBM"],
+    nlp: ["Transformers", "BERT", "GPT", "spaCy"],
+    computerVision: ["OpenCV", "YOLO", "CNN"],
+    llm: ["LangChain", "OpenAI API", "Hugging Face"]
   },
-  currentFocus: "Building innovative solutions",
-  learning: "Always learning new technologies"
+  dataScience: {
+    analysis: ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
+    databases: ["PostgreSQL", "MongoDB", "Vector DBs"],
+    cloud: ["AWS", "Google Cloud", "Azure"]
+  },
+  tools: ["Git", "Docker", "Jupyter", "VS Code"],
+  currentFocus: "Building AI-powered solutions",
+  learning: "Latest LLMs and Generative AI"
 };
 ```
 
@@ -41,15 +48,17 @@ const anwar = {
 
 ## 🔭 المشاريع الحالية | Current Projects
 
-- 🌱 أعمل على تطوير مهاراتي في البرمجة
-- 👯 أبحث عن فرص للتعاون في مشاريع مفتوحة المصدر
-- 💡 أتعلم تقنيات جديدة باستمرار
+- 🤖 أعمل على مشاريع الذكاء الاصطناعي والتعلم الآلي
+- 🧠 أطور نماذج التعلم العميق ومعالجة اللغات الطبيعية
+- 👯 أبحث عن فرص للتعاون في مشاريع AI مفتوحة المصدر
+- 💡 أتعلم أحدث تقنيات LLMs والذكاء الاصطناعي التوليدي
 
 ---
 
-- 🌱 Currently improving my programming skills
-- 👯 Looking to collaborate on open source projects
-- 💡 Always learning new technologies
+- 🤖 Working on AI and Machine Learning projects
+- 🧠 Developing Deep Learning and NLP models
+- 👯 Looking to collaborate on open source AI projects
+- 💡 Learning latest LLMs and Generative AI technologies
 
 ## 📫 تواصل معي | Connect With Me
 
