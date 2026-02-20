@@ -61,6 +61,9 @@ A comparative study of Transfer Learning strategies for text classification, cov
 - **Location:**  Saudi Arabia
 
 *"Turning data into intelligence, one epoch at a time."*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=radical&hide_border=true)
 <!--
 **Anwar-232/Anwar-232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
